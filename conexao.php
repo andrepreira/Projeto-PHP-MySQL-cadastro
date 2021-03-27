@@ -1,7 +1,7 @@
 <?php
 define('HOST','127.0.0.1');
 define('USUARIO','root');
-define('SENHA', '5692132');
+define('SENHA', 'senha-root-mysql');
 define('DB', 'login');
 
 
